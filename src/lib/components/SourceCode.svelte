@@ -38,7 +38,7 @@
   </div>
 
   <pre
-    class="bg-gray-100 p-4 rounded-lg text-xs leading-relaxed overflow-auto flex-1 border border-gray-200 font-mono mb-4"><code
+    class="bg-gray-100 p-4 rounded-lg text-xs leading-relaxed overflow-auto flex-1 border border-gray-200 font-mono mb-2"><code
       >{currentSourceCode}</code
     ></pre>
 
